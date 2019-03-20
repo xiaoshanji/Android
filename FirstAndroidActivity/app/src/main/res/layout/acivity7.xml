@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button1"
+        android:text="@string/button1"
+        android:textAllCaps="false"
+        />
+    <Button
+        android:layout_width="264dp"
+        android:layout_height="70dp"
+        android:id="@+id/button2"
+        android:text="@string/button2"
+        android:textAllCaps="false"
+        android:alpha="0.5"
+        />
+
+</FrameLayout>

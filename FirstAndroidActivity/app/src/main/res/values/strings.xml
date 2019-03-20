@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirstAndroidActivity</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+    <string name="button4">Button4</string>
+    <string name="button5">Button5</string>
+    <string name="button6">Button6</string>
+    <string name="tv1">http://www.google.com</string>
+    <string name="tv2">TextView</string>
+    <string name="tv3">abcdefghjklmnopqrstuvwxyz</string>
+
+</resources>
